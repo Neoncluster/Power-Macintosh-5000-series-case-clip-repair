@@ -4,7 +4,7 @@ Repair broken front bezel case clips on your powermac 5000 series 'all in one' c
 
 INSTRUCTIONS:
 Cut broken case clips down to size (see photos). 
-print 2 3D printed brackets. Mirror 3D pracket artwork (in your slicer software) and print two more pieces.
+Print two 3D printed brackets. Mirror 3D pracket artwork (in your slicer software) and print two more pieces.
 Glue the 3D printing brakets in place (I used a good amount of two part epoxy adehesive).
 *Be careful not to break the legs on the 3D printed bracket.
 
