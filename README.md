@@ -1,1 +1,1 @@
-# Power-Macintosh-5000-n-series-case-clip-repair
+# Power-Macintosh-5000-series-case-clip-repair
