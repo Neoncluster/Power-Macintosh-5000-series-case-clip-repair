@@ -11,3 +11,5 @@ Glue the 3D printing brakets in place (I used a good amount of two part epoxy ad
 ![fix mounts](https://github.com/user-attachments/assets/6e7a4abf-e344-4a57-a7e1-7daf1b7fdecb)
 ![Screenshot 2024-08-29 at 12 36 58 PM](https://github.com/user-attachments/assets/dad19b26-92cd-450e-bd8a-2884098046c1)
 ![Screenshot 2024-08-29 at 12 36 48 PM](https://github.com/user-attachments/assets/149f2aee-71cb-4f35-8433-8f6dd4ed13e6)
+
+![Fixed](https://github.com/user-attachments/assets/6ab5bdc8-2bec-4cd9-ada0-b0f1190ee23b)
