@@ -1,6 +1,6 @@
 # Power-Macintosh-5000-series-case-clip-repair
 
-Repair your broken case clips on your powermac 5000 series all in one computer.
+Repair broken front bezel case clips on your powermac 5000 series 'all in one' computer.
 
 INSTRUCTIONS:
 Cut broken case clips down to size (see photos). Gluethe 3D printing brakets in place (I used two part Areldite adehesive).
